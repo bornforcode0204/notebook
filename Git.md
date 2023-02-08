@@ -55,3 +55,51 @@ To see the file and folder inside workspace.
 
 - git config --local user.email emailid
 - git config --local user.name username
+
+<--------------------------------------------------->
+
+# Hitesh ( LCO )
+
+## Why Git?
+
+- Verson Control
+
+- Design.png -> DesignFinal.png -> DesignFinalV1.png -> DesignFinalV2.png
+
+- Software revert is more than ctrl + Z
+
+- VCS ( Version Control System ) it controlles versions of a system and multiple people works on it. v/s SCM ( Source Code Management ) manages source code for us.
+
+- Past - CVS, SVN
+
+## Git
+
+- 2005 - By Linus Torvalds
+- It is open source and free
+- Available for Mac, Linux, and Windows
+- Github hosts your repositories.
+- But repos can be hosted on other places too.
+
+## Uses:
+
+- Collaboration
+- Every user maintains their own repos
+- Git track changes
+- Merge the changes
+
+## Pros
+
+- No Single point of failure
+- Forking ( coping the code ) is encouraged
+- Go your own way - Example - MariaDB
+
+## Installing
+
+- goto git-scm.com
+- download & install
+
+## Git bash command
+
+- where
+- which
+- git --version
